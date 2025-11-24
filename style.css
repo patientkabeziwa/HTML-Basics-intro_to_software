@@ -1,0 +1,20 @@
+h1{ color: rgb(97, 7, 62);
+ font-size:30px"
+
+   }
+
+   h2{
+    color:white (18, 58, 18);
+    text-decoration: dotted;
+    background-color: orange;
+   }
+
+   .paragraph{
+    color: blueviolet;
+   }
+
+   *{
+    background-color:rgb(127, 168, 127) ;
+    margin: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
